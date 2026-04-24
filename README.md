@@ -85,9 +85,9 @@
 На первом сервере:
 
 ```bash
-wget https://raw.githubusercontent.com/IGrok2/cascad/main/cascade.sh
-chmod +x cascade.sh
-./cascade.sh
+wget https://raw.githubusercontent.com/IGrok2/cascad/main/main.sh
+chmod +x main.sh
+./main.sh
 ```
 
 
